@@ -1,0 +1,36 @@
+body {
+    background: url("fondo.jpg");
+    font-family: 'Cinzel Decorative', cursive;
+}
+h1>img {
+    width:3%;
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    font-weight: bold; 
+}
+
+#box {
+    border: 1px solid black;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: antiquewhite;
+    opacity: 0.8;
+}
+
+#formulario {
+    padding-left: 1%;
+    padding-top: 2%;
+    
+}
+
+#btnLogo {
+    padding-left: 45%;
+}
+
+#btnAceptar {
+padding-left: 45%;
+}
